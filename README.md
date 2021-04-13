@@ -32,7 +32,7 @@ les informations pour compiler/lancer le programme se trouvent [sur cette page](
  - Mise en place des patrons de conceptions
  - Vue en tranche
  
-~~**Luca**~~ a quité le navire
+~~**Luca**~~ a quitté le navire
  - PLY Parser
  
 **Léopold** (Leopold Hubert, leopold)
@@ -43,7 +43,7 @@ les informations pour compiler/lancer le programme se trouvent [sur cette page](
  - Choix des couleurs
  - Raccourcis clavier et usage de la souris
  
-~~**Victor**~~ a quité le navire
+~~**Victor**~~ a quitté le navire
  - Fenêtre javaFX
  
 # précisions
